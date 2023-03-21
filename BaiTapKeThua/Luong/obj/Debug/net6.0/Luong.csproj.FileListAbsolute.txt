@@ -1,0 +1,15 @@
+D:\Documents\.NET\BaiTapKeThua\Luong\bin\Debug\net6.0\Luong.exe
+D:\Documents\.NET\BaiTapKeThua\Luong\bin\Debug\net6.0\Luong.deps.json
+D:\Documents\.NET\BaiTapKeThua\Luong\bin\Debug\net6.0\Luong.runtimeconfig.json
+D:\Documents\.NET\BaiTapKeThua\Luong\bin\Debug\net6.0\Luong.dll
+D:\Documents\.NET\BaiTapKeThua\Luong\bin\Debug\net6.0\Luong.pdb
+D:\Documents\.NET\BaiTapKeThua\Luong\obj\Debug\net6.0\Luong.csproj.AssemblyReference.cache
+D:\Documents\.NET\BaiTapKeThua\Luong\obj\Debug\net6.0\Luong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\.NET\BaiTapKeThua\Luong\obj\Debug\net6.0\Luong.AssemblyInfoInputs.cache
+D:\Documents\.NET\BaiTapKeThua\Luong\obj\Debug\net6.0\Luong.AssemblyInfo.cs
+D:\Documents\.NET\BaiTapKeThua\Luong\obj\Debug\net6.0\Luong.csproj.CoreCompileInputs.cache
+D:\Documents\.NET\BaiTapKeThua\Luong\obj\Debug\net6.0\Luong.dll
+D:\Documents\.NET\BaiTapKeThua\Luong\obj\Debug\net6.0\refint\Luong.dll
+D:\Documents\.NET\BaiTapKeThua\Luong\obj\Debug\net6.0\Luong.pdb
+D:\Documents\.NET\BaiTapKeThua\Luong\obj\Debug\net6.0\Luong.genruntimeconfig.cache
+D:\Documents\.NET\BaiTapKeThua\Luong\obj\Debug\net6.0\ref\Luong.dll

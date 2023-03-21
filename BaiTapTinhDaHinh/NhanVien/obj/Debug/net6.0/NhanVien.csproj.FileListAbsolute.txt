@@ -1,0 +1,15 @@
+D:\Documents\.NET\BaiTapTinhDaHinh\NhanVien\bin\Debug\net6.0\NhanVien.exe
+D:\Documents\.NET\BaiTapTinhDaHinh\NhanVien\bin\Debug\net6.0\NhanVien.deps.json
+D:\Documents\.NET\BaiTapTinhDaHinh\NhanVien\bin\Debug\net6.0\NhanVien.runtimeconfig.json
+D:\Documents\.NET\BaiTapTinhDaHinh\NhanVien\bin\Debug\net6.0\NhanVien.dll
+D:\Documents\.NET\BaiTapTinhDaHinh\NhanVien\bin\Debug\net6.0\NhanVien.pdb
+D:\Documents\.NET\BaiTapTinhDaHinh\NhanVien\obj\Debug\net6.0\NhanVien.csproj.AssemblyReference.cache
+D:\Documents\.NET\BaiTapTinhDaHinh\NhanVien\obj\Debug\net6.0\NhanVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\.NET\BaiTapTinhDaHinh\NhanVien\obj\Debug\net6.0\NhanVien.AssemblyInfoInputs.cache
+D:\Documents\.NET\BaiTapTinhDaHinh\NhanVien\obj\Debug\net6.0\NhanVien.AssemblyInfo.cs
+D:\Documents\.NET\BaiTapTinhDaHinh\NhanVien\obj\Debug\net6.0\NhanVien.csproj.CoreCompileInputs.cache
+D:\Documents\.NET\BaiTapTinhDaHinh\NhanVien\obj\Debug\net6.0\NhanVien.dll
+D:\Documents\.NET\BaiTapTinhDaHinh\NhanVien\obj\Debug\net6.0\refint\NhanVien.dll
+D:\Documents\.NET\BaiTapTinhDaHinh\NhanVien\obj\Debug\net6.0\NhanVien.pdb
+D:\Documents\.NET\BaiTapTinhDaHinh\NhanVien\obj\Debug\net6.0\NhanVien.genruntimeconfig.cache
+D:\Documents\.NET\BaiTapTinhDaHinh\NhanVien\obj\Debug\net6.0\ref\NhanVien.dll

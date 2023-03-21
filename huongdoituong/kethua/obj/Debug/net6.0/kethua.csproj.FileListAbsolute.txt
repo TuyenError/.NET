@@ -1,0 +1,15 @@
+D:\Documents\.NET\huongdoituong\kethua\obj\Debug\net6.0\kethua.csproj.AssemblyReference.cache
+D:\Documents\.NET\huongdoituong\kethua\obj\Debug\net6.0\kethua.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\.NET\huongdoituong\kethua\obj\Debug\net6.0\kethua.AssemblyInfoInputs.cache
+D:\Documents\.NET\huongdoituong\kethua\obj\Debug\net6.0\kethua.AssemblyInfo.cs
+D:\Documents\.NET\huongdoituong\kethua\obj\Debug\net6.0\kethua.csproj.CoreCompileInputs.cache
+D:\Documents\.NET\huongdoituong\kethua\bin\Debug\net6.0\kethua.exe
+D:\Documents\.NET\huongdoituong\kethua\bin\Debug\net6.0\kethua.deps.json
+D:\Documents\.NET\huongdoituong\kethua\bin\Debug\net6.0\kethua.runtimeconfig.json
+D:\Documents\.NET\huongdoituong\kethua\bin\Debug\net6.0\kethua.dll
+D:\Documents\.NET\huongdoituong\kethua\bin\Debug\net6.0\kethua.pdb
+D:\Documents\.NET\huongdoituong\kethua\obj\Debug\net6.0\kethua.dll
+D:\Documents\.NET\huongdoituong\kethua\obj\Debug\net6.0\refint\kethua.dll
+D:\Documents\.NET\huongdoituong\kethua\obj\Debug\net6.0\kethua.pdb
+D:\Documents\.NET\huongdoituong\kethua\obj\Debug\net6.0\kethua.genruntimeconfig.cache
+D:\Documents\.NET\huongdoituong\kethua\obj\Debug\net6.0\ref\kethua.dll

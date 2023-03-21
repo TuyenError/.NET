@@ -1,0 +1,15 @@
+D:\Documents\.NET\songuyen\songuyen\bin\Debug\net6.0\songuyen.exe
+D:\Documents\.NET\songuyen\songuyen\bin\Debug\net6.0\songuyen.deps.json
+D:\Documents\.NET\songuyen\songuyen\bin\Debug\net6.0\songuyen.runtimeconfig.json
+D:\Documents\.NET\songuyen\songuyen\bin\Debug\net6.0\songuyen.dll
+D:\Documents\.NET\songuyen\songuyen\bin\Debug\net6.0\songuyen.pdb
+D:\Documents\.NET\songuyen\songuyen\obj\Debug\net6.0\songuyen.csproj.AssemblyReference.cache
+D:\Documents\.NET\songuyen\songuyen\obj\Debug\net6.0\songuyen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\.NET\songuyen\songuyen\obj\Debug\net6.0\songuyen.AssemblyInfoInputs.cache
+D:\Documents\.NET\songuyen\songuyen\obj\Debug\net6.0\songuyen.AssemblyInfo.cs
+D:\Documents\.NET\songuyen\songuyen\obj\Debug\net6.0\songuyen.csproj.CoreCompileInputs.cache
+D:\Documents\.NET\songuyen\songuyen\obj\Debug\net6.0\songuyen.dll
+D:\Documents\.NET\songuyen\songuyen\obj\Debug\net6.0\refint\songuyen.dll
+D:\Documents\.NET\songuyen\songuyen\obj\Debug\net6.0\songuyen.pdb
+D:\Documents\.NET\songuyen\songuyen\obj\Debug\net6.0\songuyen.genruntimeconfig.cache
+D:\Documents\.NET\songuyen\songuyen\obj\Debug\net6.0\ref\songuyen.dll
